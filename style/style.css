@@ -1,0 +1,24 @@
+.sub{
+    width: 252px;
+    height: 388px;
+    background-color: #FFFFFF
+    
+}
+.destop .save span {
+    width: 80px;
+    height: 25px;
+    display: inline-block;
+    font-size: 15px;
+    background-color: #490070; color: white;
+    border-radius: 0 20px 20px 0;
+}
+.destop .img{
+    text-align: center;
+}
+.price .present{
+ color: red;
+}
+.price .pest{
+    text-decoration: line-through;
+    
+}
